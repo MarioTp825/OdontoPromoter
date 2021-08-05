@@ -1,0 +1,3 @@
+/home/mario_tepe/Documents/Graficas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mario_tepe/Documents/Graficas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mario_tepe/Documents/Graficas/cmake-build-debug/CMakeFiles/Graficas.dir

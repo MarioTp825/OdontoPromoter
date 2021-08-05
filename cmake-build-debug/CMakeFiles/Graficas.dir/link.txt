@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Graficas.dir/main.cpp.o CMakeFiles/Graficas.dir/Image.cpp.o -o Graficas 

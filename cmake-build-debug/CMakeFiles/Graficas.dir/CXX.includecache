@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mario_tepe/Documents/Graficas/Image.cpp
+Image.h
+/home/mario_tepe/Documents/Graficas/Image.h
+iostream
+-
+fstream
+-
+
+/home/mario_tepe/Documents/Graficas/Image.h
+vector
+-
+
+/home/mario_tepe/Documents/Graficas/main.cpp
+iostream
+-
+Image.h
+/home/mario_tepe/Documents/Graficas/Image.h
+
