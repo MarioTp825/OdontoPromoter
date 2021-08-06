@@ -2,8 +2,8 @@
 #include "Image.h"
 
 int main() {
-    const int width = 640;
-    const int height = 480;
+    const int width = 500;
+    const int height = 500;
 
     Image image(width, height);
 
@@ -13,6 +13,6 @@ int main() {
         }
     }
 
-    image.Export("image.bmp");
+    image.Export("imageTwo.bmp");
     return 0;
 }

@@ -6,14 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/mario_tepe/Documents/Graficas/Image.cpp
-Image.h
-/home/mario_tepe/Documents/Graficas/Image.h
-iostream
--
-fstream
--
-
 /home/mario_tepe/Documents/Graficas/Image.h
 vector
 -
